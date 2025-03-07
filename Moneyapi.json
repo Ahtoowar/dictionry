@@ -1,21 +1,21 @@
 {
-"thRate": 770,
-  "mmRate": 745,
+"thRate": 780,
+  "mmRate": 760,
 
-  "THB1": "15 THB",
-  "MMK1": "1000 MMK",
+  "THB1": "20 THB",
+  "MMK1": "2000 MMK",
   
-  "THB2": "20 THB",
-  "MMK2": "10000 MMK",
+  "THB2": "30 THB",
+  "MMK2": "3000 MMK",
   
-  "THB3": "30 THB",
-  "MMK3": "3000 MMK",
+  "THB3": "50 THB",
+  "MMK3": "5000 MMK",
   
-  "THB4": "50 THB",
-  "MMK4": "5000 MMK",
+  "THB4": "90 THB",
+  "MMK4": "10000 MMK",
   
-  "THB5": "900 THB",
-  "MMK5": "10000 MMK",
+  "THB5": "100 THB",
+  "MMK5": "11000 MMK",
 
   "versionCode": 1,
   "title": "အပ်ဒိပ် အသစ်ရရှိပါပြီ",
@@ -24,3 +24,6 @@
 
 
 
+}
+
+  
