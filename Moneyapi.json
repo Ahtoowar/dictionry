@@ -2,22 +2,22 @@
 "thRate": 745,
   "mmRate": 720,
 
-  "THB1": "15 THB",
-  "MMK1": "2000 MMK",
+  "THB1": "100 THB",
+  "MMK1": "10000 MMK",
   
-  "THB2": "30 THB",
-  "MMK2": "3000 MMK",
+  "THB2": "200 THB",
+  "MMK2": "2000 MMK",
   
-  "THB3": "50 THB",
-  "MMK3": "5000 MMK",
+  "THB3": "300 THB",
+  "MMK3": "3000 MMK",
   
-  "THB4": "85 THB",
-  "MMK4": "10000 MMK",
+  "THB4": "400 THB",
+  "MMK4": "40000 MMK",
   
-  "THB5": "95 THB",
-  "MMK5": "11000 MMK",
+  "THB5": "500 THB",
+  "MMK5": "50000 MMK",
 
-  "versionCode": 2,
+  "versionCode": 1,
   "title": "အပ်ဒိပ် အသစ်ရရှိပါပြီ",
     "message": "အက်ပ်၏ ဗားရှင်းအသစ်ကို ရနိုင်ပါပြီ။  ဆက်လုပ်ရန် ကျေးဇူးပြု၍ အပ်ဒိတ်လုပ်ပါ။",
     "link": "https://play.google.com/store/apps/details?id=com.converter.htoohttps://play.google.com/store/apps/details?id=com.converter.htoo"
